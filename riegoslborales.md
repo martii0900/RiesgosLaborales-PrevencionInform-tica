@@ -1,14 +1,43 @@
-# Riesgos Laborales y Prevención desde un Enfoque Informático
+# 💻⚠️ Riesgos Laborales en el Mundo de la Informática 🖥️🛡️
 
-Este repositorio proporciona información y recursos para identificar, analizar y prevenir riesgos laborales en entornos informáticos, incluyendo oficinas y lugares de trabajo digitales. La guía incluye riesgos generales, ergonómicos y ciberseguridad, además de herramientas y recomendaciones para mitigarlos.
+👋  Este repositorio está dedicado a identificar, analizar y prevenir los riesgos laborales más comunes en el mundo de la informática. Aquí encontrarás guías, recomendaciones y recursos para mantenerte seguro/a mientras trabajas en tu entorno digital. 🌟
+![image](https://github.com/user-attachments/assets/35f50d18-22ab-4591-925c-99efeade37da)
 
-## Contenido
+## 🗂️ Contenido del Repositorio
 
-- **[Riesgos Generales](docs/riesgos_generales.md)**: Información sobre accidentes, incendios, golpes y medidas preventivas.
-- **[Riesgos Ergonómicos](docs/riesgos_ergonomicos.md)**: Posturas, equipos y configuración del entorno de trabajo.
-- **[Ciberseguridad](docs/ciberseguridad.md)**: Protección contra ataques informáticos y amenazas digitales.
-- **[Recomendaciones](docs/recomendaciones.md)**: Consejos prácticos para un entorno laboral seguro.
-- **Herramientas y Scripts**: Scripts para análisis de seguridad y ergonomía digital.
+- 📂 **[Riesgos Generales](docs/riesgos_generales.md)**: 🔌 Accidentes eléctricos, 🔥 incendios y 🪑 caídas.
+- 💡 **[Ergonomía](docs/riesgos_ergonomicos.md)**: 💺 Ajustes posturales, 🖱️ uso del ratón y teclado, y 💡 iluminación adecuada.
+- 🛡️ **[Ciberseguridad](docs/ciberseguridad.md)**: 🔐 Protección contra hackers, 📛 ataques de phishing, y 🔄 copias de seguridad.
+- ✅ **[Recomendaciones](docs/recomendaciones.md)**: 🧘 Pausas activas, 🎯 técnicas de productividad y 🛠️ herramientas útiles.
 
+- 
+# 💺 Riesgos Ergonómicos
+
+## 💻 Posturas Saludables
+- Ajusta tu silla para que los pies estén firmemente apoyados. 🦶  
+- Coloca la pantalla a la altura de los ojos. 👀  
+
+## 🖱️ Ratón y Teclado
+- Usa reposamuñecas de gel.  
+- Mantén el teclado a una distancia de 10-15 cm del borde de la mesa.  
+
+## 🧘 Pausas Activas
+- Levántate cada hora. 🚶‍♀️  
+- Realiza estiramientos suaves para reducir la tensión muscular.  
+
+---
+# 🛡️ Ciberseguridad
+
+## 🔐 Contraseñas
+- Usa contraseñas fuertes y únicas.  
+- Implementa gestores de contraseñas como LastPass o Bitwarden.  
+
+## 👾 Malware
+- Instala un antivirus actualizado.  
+- Evita descargar archivos de fuentes desconocidas.  
+
+## 📧 Phishing
+- Desconfía de correos que pidan información confidencial.  
+- Verifica siempre el remitente.  
 
 
