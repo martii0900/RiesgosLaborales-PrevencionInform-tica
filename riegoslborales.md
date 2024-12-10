@@ -1,6 +1,8 @@
 # 💻⚠️ Riesgos Laborales en el Mundo de la Informática 🖥️🛡️
 
 👋  Este repositorio está dedicado a identificar, analizar y prevenir los riesgos laborales más comunes en el mundo de la informática. Aquí encontrarás guías, recomendaciones y recursos para mantenerte seguro/a mientras trabajas en tu entorno digital. 🌟
+
+
 ![image](https://github.com/user-attachments/assets/35f50d18-22ab-4591-925c-99efeade37da)
 
 ## 🗂️ Contenido del Repositorio
@@ -27,6 +29,11 @@
 
 ---
 # 🛡️ Ciberseguridad
+
+![image](https://github.com/user-attachments/assets/cce3f018-1970-40c2-ba20-952db0798e72)
+
+
+
 
 ## 🔐 Contraseñas
 - Usa contraseñas fuertes y únicas.  
